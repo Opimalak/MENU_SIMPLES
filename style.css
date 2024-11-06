@@ -14,3 +14,6 @@ header{
 .container{
     display: flex;
 }
+.container-item{
+    flex-direction: row;
+}
