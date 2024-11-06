@@ -13,10 +13,9 @@ header{
 }
 .container{
     display: flex;
-    align-items: center;
-    
 }
 .container-item{
     flex-direction: row;
     font-size: 30px;
+    align-items: center;
 }
