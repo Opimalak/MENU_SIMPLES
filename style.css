@@ -11,8 +11,11 @@ header{
     font-size: 32px;
     text-align: center;
 }
-.container{
+main{
     display: flex;
+}
+.container{
+    align-items: center;
 }
 .container-item{
     flex-direction: row;
