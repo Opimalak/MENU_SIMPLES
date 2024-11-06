@@ -13,6 +13,7 @@ header{
 }
 main{
     display: flex;
+    flex-direction: row;
 }
 .container{
     align-items: center;
