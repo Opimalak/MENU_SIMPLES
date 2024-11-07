@@ -50,7 +50,7 @@ header{
 /* MENU FIXADO */
 
 .header-fixado{
-
+margin-top:1em;
 }
 .menu-fixado{
     overflow: hidden;
@@ -58,6 +58,7 @@ header{
     position: fixed;
     top:0;
     width: 100%;
+    height:2em;
     font-size: 22px;
 }
 .rolagem-fixado{
