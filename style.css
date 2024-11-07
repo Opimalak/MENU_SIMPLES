@@ -49,6 +49,9 @@ header{
 
 /* MENU FIXADO */
 
+.header-fixado{
+    
+}
 .navbar{
     overflow: hidden;
     background-color: #333;
