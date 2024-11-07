@@ -4,9 +4,10 @@
     padding: 0;
     font-family: 16px;
     font-family: "Exo", sans-serif;
+}
+body{
     background-color: #cfccbb;
 }
-
 header{
     background-color: #291d21;
     color: #e1daca;
