@@ -41,11 +41,7 @@ header{
 }
 /* INDEX FIM */
 
-
-
-
-
-
+/* MENU SIMPLES */
 .navbar{
     overflow: hidden;
     background-color: #333;
@@ -57,3 +53,20 @@ header{
 p{
     font-size: 30px;
 }
+/* MENU SIMPLES FIM */
+
+/* MENU FIXADO */
+
+
+
+/* MENU FIXADO FIM */
+
+/* MENU LATERAL */
+
+
+
+/* MENU LATERAL FIM */
+
+/* MENU TEST */
+
+/* MENU TEST FIM */
