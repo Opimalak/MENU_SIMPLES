@@ -27,7 +27,7 @@ main{
     justify-content:space-around;
 }
 .container-item{
-    background-color: chartreuse;
+    background-color: #5d544d;
     width:20rem;
     height:20rem;
     margin:10px;
