@@ -12,12 +12,11 @@ header{
     text-align: center;
 }
 main{
-    display: flex;
-    flex-direction: row;
 }
 .container{
-    align-items: center;
+    display: flex;
     flex-direction: row;
+    align-items: center;
 }
 .container-item{
     flex-direction: row;
