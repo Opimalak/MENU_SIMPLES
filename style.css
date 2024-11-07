@@ -13,7 +13,8 @@ header{
     font-size: 40px;
     text-align: center;
 }
-.container{
+/* INDEX */
+.container-index{
     width:cover;
     height:30rem;
     display: flex;
@@ -22,10 +23,10 @@ header{
     align-items:center;
     justify-content:space-around;
 }
-.container h2{
+.container-index h2{
     text-decoration: none;
 }
-.container-item{
+.container-item-index{
     background-color: #5d544d;
     color:#e1daca;
     width:25rem;
@@ -34,11 +35,11 @@ header{
     padding-top:10px;
     font-size: 2rem;
 }
-.img-main{
+.img-main-index{
     width: 25rem;
     height: auto;
 }
-
+/* INDEX FIM */
 
 
 
