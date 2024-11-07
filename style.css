@@ -18,11 +18,13 @@ main{
     display: flex;
     flex-direction: row;
     text-align: center;
-    align-items: center;
+    align-items:center;
 }
 .container-item{
     background-color: chartreuse;
-    flex-direction: row;
-    font-size: 25px;
-    align-items: center;
+    width:20rem;
+    height:20rem;
+    margin:10px;
+    font-size: 30px;
+    
 }
