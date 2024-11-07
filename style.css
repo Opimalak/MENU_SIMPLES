@@ -23,9 +23,11 @@ header{
     align-items:center;
     justify-content:space-around;
 }
-a .titulo-main-index{
+.container-index a{
     text-decoration: none;
 }
+    
+
 
 .container-item-index{
     background-color: #5d544d;
