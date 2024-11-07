@@ -15,7 +15,6 @@ header{
     text-align: center;
 }
 .container{
-    text-decoration: none;
     width:cover;
     height:30rem;
     display: flex;
@@ -23,6 +22,9 @@ header{
     text-align: center;
     align-items:center;
     justify-content:space-around;
+}
+.container h2{
+    text-decoration: none;
 }
 .container-item{
     background-color: #5d544d;
