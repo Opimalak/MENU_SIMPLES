@@ -50,9 +50,9 @@ header{
 /* MENU FIXADO */
 
 .header-fixado{
-    
+
 }
-.navbar{
+.menu-fixado{
     overflow: hidden;
     background-color: #333;
     position: fixed;
