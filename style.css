@@ -39,3 +39,11 @@ header{
     width: 25rem;
     height: auto;
 }
+
+
+
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+}
